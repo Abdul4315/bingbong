@@ -4,6 +4,20 @@ Author : Abdul Basit Kamil
 Web nov 22 2023
 */
 
+*{
+    font-size: 12px;
+}
 body {
     background-color: #f1f1f1;
+}
+h1{
+    font-size: 2rem;
+    color: blue;
+    font-size: bold;
+}
+
+.form{
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
 }
